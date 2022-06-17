@@ -1,2 +1,3 @@
 Started new work on file3
 doing more work
+started component 1
